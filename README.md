@@ -8,13 +8,13 @@ Process & Tools
 
 Data Cleaning: Removed duplicates, standardized date and currency formats.
 
-Functions Used: XLOOKUP, INDEX-MATCH, IFERROR, TEXT, and DATE functions for joining and formatting data.
-
 Pivot Tables: Created to summarize total sales by product, country, and month.
 
 Charts: Built interactive visualizations (bar, line, pie) to highlight key KPIs.
 
 Dashboard: Integrated charts into a unified dashboard with slicers and filters for interactivity.
+
+Excel's built in functions (XLOOKUP , INDEX-MATCH etc.) were also used.
 
 Key Insights
 
